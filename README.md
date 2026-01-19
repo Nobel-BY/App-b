@@ -91,10 +91,6 @@ App-b/
 - 为新功能添加适当的注释和文档
 - 确保所有更改都经过测试
 
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
-
 ---
 
 <div align="center">
